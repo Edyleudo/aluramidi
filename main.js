@@ -8,7 +8,7 @@ function tocaSom (seletorAudio){
         console.log('Elemento não encontrado ou seletor invalido');
     }
 }
-//erropelogit1
+//errolocal1
 
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
