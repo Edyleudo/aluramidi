@@ -10,9 +10,13 @@ function tocaSom (seletorAudio){
 }
 //errogit5
 
+
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
 let contador = 0;
+
+//teste1
+//teste2
 
 while(contador < listaDeTeclas.length){
 
